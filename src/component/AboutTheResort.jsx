@@ -1,7 +1,7 @@
 import { Link } from "react-router";
 import Content from "./Content"
 import ResortDesign from "./ResortDesign"
-import Title from "./Title" 
+import Title from "./layouts/Title" 
 
 
 const AboutTheResort = () => {
