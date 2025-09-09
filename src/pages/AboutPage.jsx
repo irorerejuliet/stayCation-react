@@ -1,7 +1,6 @@
 import AboutTheResort from "../component/AboutTheResort"
 import Footer from "../component/Footer"
 import HappyFamily from "../component/HappyFamily"
-import Logo from "../component/layouts/Logo"
 import NavBar from "../component/layouts/NavBar"
 import MortigoResort from "../component/MortigoResort"
 import ThingsToDo from "../component/ThingsToDo"
