@@ -100,9 +100,9 @@ const AboutTheResort = () => {
               </button>
             </div>
             <p className="font-light text-lg text-tertiary py-6">
-              You will pay{" "}
+              You will pay
               <span className="font-medium text-lg text-black">$480 USD</span>{" "}
-              for 2{" "}
+              for 2
               <span className="font-medium text-lg text-black">night</span>
             </p>
             <Link to="/booking">

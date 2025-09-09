@@ -1,22 +1,21 @@
 
 import { Route, Routes } from 'react-router';
-import Home from './pages/Home';
-import About from './pages/About';
-import Booking from './pages/Booking';
-import Complete from './pages/Complete';
-import Payment from './pages/Payment';
+import HomePage from './pages/HomePage';
+import AboutPage from './pages/AboutPage';
 
-
+import PaymentPage from './pages/PaymentPage';
+import CompletePaymentPage from './pages/CompletePaymentPage';
+import BookingPage from './pages/BookingPage';
 
 const App = () => {
   return (
     <Routes>
       <Route path="/">
-        <Route index element={<Home />} />
-        <Route path=":id" element={<About />} />
-        <Route path="booking" element={<Booking />} />
-         <Route path="payment" element={<Payment />} />
-        <Route path="complete" element={<Complete />} />
+        <Route index element={<HomePage />} />
+        <Route path="/aboutpage" element={<AboutPage />} />
+        <Route path="/bookingpage" element={<BookingPage />} />
+        <Route path="/paymentpage" element={<PaymentPage />} />
+        <Route path="/completepaymentpage" element={<CompletePaymentPage />} />
       </Route>
     </Routes>
   );

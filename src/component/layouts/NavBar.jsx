@@ -13,7 +13,7 @@ const NavBar = () => {
 
   return (
     <div>
-      <header className="w-full py-5 relative">
+      <header className="w-full py-5 relative border-b  border-light mb-20">
         <nav className="flex  justify-between items-center container max-w-[1141px]  mx-auto">
           <Logo />
           <button className="lg:hidden block mr-5" onClick={toggleMenu}>
@@ -25,7 +25,7 @@ const NavBar = () => {
         {menu && (
           <nav className="absolute left-0 top-0 z-40 text-white bg-blue-900 w-full h-[200px] p-5">
             <div className="flex justify-between items-center">
-              <Logo toggleMenu={toggleMenu}/>
+              <Logo toggleMenu={toggleMenu} />
               <button onClick={toggleMenu}>
                 <IoClose className="text-2xl" />
               </button>

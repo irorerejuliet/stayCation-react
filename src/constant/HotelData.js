@@ -3,8 +3,7 @@ export const data = [
     id: 1,
     name: "Tabby Town",
     location: "Gunung Batu, Indonesia",
-    mainImage:
-      "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643183/image2_r3u7w4.png",
+    mainImage: "/images/backyard-image1.svg",
     images: [
       "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643184/pic_fzavh5.png",
       "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643183/ppic4_rz8evw.png",
@@ -27,10 +26,9 @@ export const data = [
   },
   {
     id: 2,
-    name: "Tabby Town",
-    location: "Gunung Batu, Indonesia",
-    mainImage:
-      "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643183/image2_r3u7w4.png",
+    name: "Anggana",
+    location: "Bogor, Indonesia",
+    mainImage: "/images/backyard-image2.svg",
     images: [
       "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643184/pic_fzavh5.png",
       "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643183/ppic4_rz8evw.png",
@@ -53,10 +51,9 @@ export const data = [
   },
   {
     id: 3,
-    name: "Tabby Town",
-    location: "Gunung Batu, Indonesia",
-    mainImage:
-      "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643183/image2_r3u7w4.png",
+    name: "Seattle Rain",
+    location: "Jakarta, Indonesia",
+    mainImage: "/images/backyard-image3.svg",
     images: [
       "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643184/pic_fzavh5.png",
       "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643183/ppic4_rz8evw.png",
@@ -79,10 +76,9 @@ export const data = [
   },
   {
     id: 4,
-    name: "Tabby Town",
-    location: "Gunung Batu, Indonesia",
-    mainImage:
-      "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643183/image2_r3u7w4.png",
+    name: "Wooden Pit",
+    location: "Wonosobo, Indonesia",
+    mainImage: "/images/backyard-image4.svg",
     images: [
       "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643184/pic_fzavh5.png",
       "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643183/ppic4_rz8evw.png",
@@ -105,10 +101,9 @@ export const data = [
   },
   {
     id: 5,
-    name: "Tabby Town",
-    location: "Gunung Batu, Indonesia",
-    mainImage:
-      "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643183/image2_r3u7w4.png",
+    name: "Green Park",
+    location: "Tangerang, Indonesia",
+    mainImage: "/images/living-room-img1.svg",
     images: [
       "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643184/pic_fzavh5.png",
       "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643183/ppic4_rz8evw.png",
@@ -131,10 +126,9 @@ export const data = [
   },
   {
     id: 6,
-    name: "Tabby Town",
-    location: "Gunung Batu, Indonesia",
-    mainImage:
-      "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643183/image2_r3u7w4.png",
+    name: "Podo Wae",
+    location: "Madiun, Indonesia",
+    mainImage: "/images/livingroom-img2.svg",
     images: [
       "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643184/pic_fzavh5.png",
       "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643183/ppic4_rz8evw.png",
@@ -157,10 +151,9 @@ export const data = [
   },
   {
     id: 7,
-    name: "Tabby Town",
-    location: "Gunung Batu, Indonesia",
-    mainImage:
-      "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643183/image2_r3u7w4.png",
+    name: "Silver Rain",
+    location: "Bandung, Indonesia",
+    mainImage: "/images/livingroom-img3.svg",
     images: [
       "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643184/pic_fzavh5.png",
       "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643183/ppic4_rz8evw.png",
@@ -183,10 +176,9 @@ export const data = [
   },
   {
     id: 8,
-    name: "Tabby Town",
-    location: "Gunung Batu, Indonesia",
-    mainImage:
-      "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643183/image2_r3u7w4.png",
+    name: "Cashville",
+    location: "Kemang Indonesia",
+    mainImage: "/images/livingroom-img4.svg",
     images: [
       "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643184/pic_fzavh5.png",
       "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643183/ppic4_rz8evw.png",
@@ -209,10 +201,9 @@ export const data = [
   },
   {
     id: 9,
-    name: "Tabby Town",
-    location: "Gunung Batu, Indonesia",
-    mainImage:
-      "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643183/image2_r3u7w4.png",
+    name: "Ps Wood",
+    location: "Depok, Indonesia",
+    mainImage: "/images/kitchen-img1.svg",
     images: [
       "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643184/pic_fzavh5.png",
       "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643183/ppic4_rz8evw.png",
@@ -235,10 +226,9 @@ export const data = [
   },
   {
     id: 10,
-    name: "Tabby Town",
-    location: "Gunung Batu, Indonesia",
-    mainImage:
-      "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643183/image2_r3u7w4.png",
+    name: "One Five",
+    location: "Jakarta, Indonwsia",
+    mainImage: "/images/kitchen-img2.svg",
     images: [
       "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643184/pic_fzavh5.png",
       "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643183/ppic4_rz8evw.png",
@@ -261,10 +251,9 @@ export const data = [
   },
   {
     id: 11,
-    name: "Tabby Town",
-    location: "Gunung Batu, Indonesia",
-    mainImage:
-      "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643183/image2_r3u7w4.png",
+    name: "Minimal",
+    location: "Bagor, Indonesia",
+    mainImage: "/images/kitchen-img3.svg",
     images: [
       "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643184/pic_fzavh5.png",
       "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643183/ppic4_rz8evw.png",
@@ -287,10 +276,9 @@ export const data = [
   },
   {
     id: 12,
-    name: "Tabby Town",
-    location: "Gunung Batu, Indonesia",
-    mainImage:
-      "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643183/image2_r3u7w4.png",
+    name: "Stays Home",
+    location: "Wanosobo, Indonesia",
+    mainImage: "/images/kitchen-img4.svg",
     images: [
       "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643184/pic_fzavh5.png",
       "https://res.cloudinary.com/dnajwdxn9/image/upload/v1741643183/ppic4_rz8evw.png",
@@ -312,3 +300,5 @@ export const data = [
     },
   },
 ];
+
+
